@@ -12,5 +12,6 @@ https://github.com/StephenGrider/GoCasts
 ```
   > git clone git@github.com:smalltide/cards.git
   > cd cards
-  > go run main.go
+  > go build
+  > ./cards
 ```
