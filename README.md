@@ -1,5 +1,5 @@
-# cards
-A small card game project practice, when learning Udemy Golang course. Go: The Complete Developer's Guid(Golang）
+# learn_go
+A small project practice, when learning Udemy Golang course. Go: The Complete Developer's Guid(Golang）
 
 Go: The Complete Developer's Guide (Golang)  
 https://www.udemy.com/go-the-complete-developers-guide
@@ -7,11 +7,7 @@ https://www.udemy.com/go-the-complete-developers-guide
 Course GitHub:  
 https://github.com/StephenGrider/GoCasts
 
-1. Golang
-
-```
-  > git clone git@github.com:smalltide/cards.git
-  > cd cards
-  > go build
-  > ./cards
-```
+1. Golang Basic
+2. Struct and Map
+3. Interface
+4. Channels and Go Routines
